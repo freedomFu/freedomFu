@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🧗`2022.09-` Nankai University, Candidate of Philosophy of Education, Computer Technology
 - 🏃`2019.09-2022.06` Uninversity and Chinese Academy of Sciences, Master of Engineer, CyberSpace Security
 - 🚶`2015.09-2019.06` North China Electric Power University, Bachelor of Engineer, Computer Science and Technology
-- 
+
 ### Interset🐸
 - 🧘Yoga Exerciser
 - 🤸Street Workout Enthusiast
