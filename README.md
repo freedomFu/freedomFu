@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - 🤸Street Workout Enthusiast
 
 `📮fuyanduo@foxmail.com`
+
+[![Heiduo's GitHub stats](https://github-readme-stats.vercel.app/api?username=freedomFu)](https://github.com/freedomFu/github-readme-stats)
