@@ -21,11 +21,16 @@ Here are some ideas to get you started:
 ### Education🎓
 
 - 🧗`2022.09-` Nankai University, Candidate of Doctor of Engineering, Computer Technology
+- 🏃`2019.09-2022.06` Institute of Information Engineering, Chinese Academy of Sciences, Master of Engineering, Cyber Security
 - 🏃`2019.09-2022.06` University of Chinese Academy of Sciences, Master of Engineering, Cyber Security
 - 🚶`2015.09-2019.06` North China Electric Power University, Bachelor of Engineering, Computer Science and Technology
 
 ### Interests🐸
 - 🧘Yoga Exerciser
 - 🤸Street Workout Enthusiast
+- 📗Simple reader
+
+### Features🫥
+- 👀**I**ntroverted(79%) I**n**tuitive(63%) **F**eeling(61%) **J**udging(79%) **T**urbulent(58%)
 
 `📮fuyanduo@foxmail.com`
