@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - 📗Simple reader
 
 ### Features😄
-- 👀**I**ntroverted(79%) I**n**tuitive(63%) **F**eeling(61%) **J**udging(79%) **T**urbulent(58%)
+- 👀**I**ntroverted(75%) I**n**tuitive(52%) **F**eeling(68%) **J**udging(83%) **T**urbulent(53%)
 
 `📮fuyanduo@foxmail.com`
