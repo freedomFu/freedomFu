@@ -30,7 +30,4 @@ Here are some ideas to get you started:
 - 🤸Street Workout Enthusiast
 - 📗Simple reader
 
-### Features😄
-- 👀**I**ntroverted(75%) I**n**tuitive(52%) **F**eeling(68%) **J**udging(83%) **A**urbulent(53%)
-
 `📮fuyanduo@foxmail.com`
