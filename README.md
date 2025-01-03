@@ -22,5 +22,17 @@ I'm currently intrigued by the fields of network measurement and digital forensi
 ## Interests🐸
 - 🧘Yoga Exerciser
 - 🏋️‍♂️Body building Fresh man
-- 🤸Street Workout Enthusiast
 - 📗Simple reader
+
+<p align="center">
+  <a href="https://github.com/freedomFu?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/freedomFu?label=GitHub%20Followers&style=social"> 
+  </a> &nbsp
+  <a href="https://github.com/freedomFu">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfreedomFu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
+  </a> &nbsp
+</p>
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=freedomFu&count_private=true&theme=chartreuse&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
+  <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=freedomFu&count_private=true&theme=chartreuse&hide_border=true&layout=compact&langs_count=6"> &nbsp
+</p>
