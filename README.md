@@ -36,9 +36,3 @@ I'm currently intrigued by the fields of network measurement and digital forensi
   <img alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=freedomFu&count_private=true&theme=chartreuse&show_icons=true&hide_border=true&hide_title=true&hide_rank=true"> &nbsp
   <img alt="Language Usage" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=freedomFu&count_private=true&theme=chartreuse&hide_border=true&layout=compact&langs_count=6"> &nbsp
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freedomfu/freedomfu/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freedomfu/freedomfu/snake/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/freedomfu/freedomfu/snake/github-contribution-grid-snake.svg">
-</picture>
