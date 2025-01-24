@@ -10,7 +10,8 @@ I'm [Yanduo](https://github.com/freedomFu)！I'm freshman in research work 🧑�
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://freedomfu.github.io
+- 👨‍💻 My blog: https://github.com/freedomFu/Do-it-Anyway
+- 🌐 Website: https://freedomfu.github.io
 - 📫 How to reach me: fuyanduo@foxmail.com
 - 🌱 Languages and Tools: 
 
