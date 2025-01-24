@@ -1,17 +1,23 @@
-## About Me
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-Hello there🫡! Wish you have a nice day 😁
+I'm [Yanduo](https://github.com/freedomFu)！I'm freshman in research work 🧑‍🎓 who is interested in practical problems in information security and open source projects.
 
-My name is Yanduo Fu (付彦铎 in Chinese). I am currently a third-year Eng.D candidate at [Nankai University](https://www.nankai.edu.cn/).
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/YanduoF)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fuyanduo@foxmail.com)](mailto:fuyanduo@foxmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=freedomfu)
 
-✨ In life, I prefer to engage in some gentle exercises, such as health-preserving basketball, yoga, strength training, jogging, reading, and listening to the same piece of music repeatedly. I also occasionally play single-player games.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=freedomFu&show_icons=true&hide_border=true">
 
-🧗 **Motto:** Do it anyway.
+## 🧐 About
 
-## Research Interests
+- 👨‍💻 My blog: https://freedomfu.github.io
+- 📫 How to reach me: fuyanduo@foxmail.com
+- 🌱 Languages and Tools: 
 
-I'm currently intrigued by the fields of network measurement and digital forensics. I aspire to leverage my technical skills to safeguard the security of the internet and the privacy of its users.
-
-## Interests🐸
-- 🧘Yoga Exerciser
-- 🏋️‍♂️Body building Fresh man
+    <div>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    </div>
