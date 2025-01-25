@@ -11,7 +11,6 @@ I'm [Yanduo](https://github.com/freedomFu)！I'm new in research work 🧑‍�
 ## 🧐 About
 
 - 👨‍💻 My blog: [Do it Anyway](https://github.com/freedomFu/Do-it-Anyway)
-- 🌐 Website: https://freedomfu.github.io
 - 📫 How to reach me: fuyanduo@foxmail.com
 - 🌱 Languages and Tools: 
 
