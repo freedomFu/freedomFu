@@ -4,7 +4,6 @@ I'm [Fu Yanduo](https://github.com/freedomFu)！I'm currently intrigued by the f
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/YanduoF)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fuyanduo@foxmail.com)](mailto:fuyanduo@foxmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=freedomfu)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=freedomFu&show_icons=true&hide_border=true">
 
