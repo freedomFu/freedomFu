@@ -9,7 +9,7 @@ I'm [Fu Yanduo](https://github.com/freedomFu)！I'm currently intrigued by the f
 
 ## 🧐 About
 
-- 👨‍💻 My blog: [Do it Anyway](https://github.com/freedomFu/)
+- 👨‍💻 My blog: [Do it Anyway](https://freedomfu.github.io)
 - 📫 How to reach me: fuyanduo@foxmail.com
 - 🌱 Languages and Tools: 
 
